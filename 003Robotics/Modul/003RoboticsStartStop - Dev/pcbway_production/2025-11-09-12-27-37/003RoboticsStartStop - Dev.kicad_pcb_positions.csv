@@ -1,0 +1,37 @@
+﻿Mid X,Mid Y,Rotation,Layer,Designator,mpn,pack,footprint,value,mount_type
+176.088,-78.700002,0.0,top,C1,,,C_0805,1uF,smt
+176.087999,-76.700001,0.0,top,C2,,,C_0805,10uF,smt
+169.000001,-78.250001,90.0,top,C3,,,C_0805,100nF,smt
+171.249999,-78.249998,90.0,top,C4,,,C_0805,4.7uF,smt
+176.5,-84.5,0.0,top,C5,,,C_0805,1uF,smt
+153.46,-87.745,180.0,top,C6,,,C_0805,100nF,smt
+157.21,-85.245,0.0,top,C7,,,C_0805,100nF,smt
+176.337999,-88.100001,180.0,top,D1,,,D_SOD-523,1SS389,smt
+157.0,-75.25,0.0,top,D2,,,D_0805,Yellow,smt
+170.25,-88.75,180.0,top,D3,,,D_DFN1006-2L,H3V3N10B,smt
+166.75,-88.75,0.0,top,D4,,,D_DFN1006-2L,H3V3N10B,smt
+157.0,-77.5,0.0,top,D5,,,D_0805,Red,smt
+157.0,-79.75,0.0,top,D6,,,D_0805,Green,smt
+173.323166,-73.810001,-90.0,top,D7,,,D_0805,Green,smt
+161.8,-88.75,0.0,top,D8,,,D_DFN1006-2L,H3V3N10B,smt
+176.338,-86.45,0.0,top,F1,,,Fuse_0603_1608Metric,100 mA,smt
+154.5,-66.5,0.0,top,H1,,,"Hole, 3mm",~,tht
+177.5,-66.5,0.0,top,H2,,,"Hole, 3mm",~,tht
+162.19,-91.0,90.0,top,J1,,,PinHeader_1x04_P2.54mm_Vertical,I/O Header,tht
+171.08,-65.0,-90.0,top,J2,,,PinHeader_1x05_P2.54mm_Vertical,Conn_01x05,tht
+154.249999,-84.334999,-90.0,top,R1,,,R_0805,100Ω,smt
+153.159999,-75.25,180.0,top,R2,,,R_0805,1kΩ,smt
+153.16,-77.500002,180.0,top,R3,,,R_0805,1kΩ,smt
+153.159999,-79.750001,180.0,top,R4,,,R_0805,1kΩ,smt
+171.373166,-73.810001,90.0,top,R5,,,R_0805,1kΩ,smt
+173.5,-85.0,-90.0,top,TP1,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+176.038001,-74.35,0.0,top,TP2,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+152.0,-84.5,90.0,top,TP3,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+157.25,-82.25,0.0,top,TP4,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+156.75,-87.75,0.0,top,TP5,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+176.337999,-90.150001,180.0,top,TP6,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+166.75,-82.75,0.0,top,TP7,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+170.0,-82.75,0.0,top,TP8,,,PinHeader_1x01_P1.27mm_Vertical,TestPoint,tht
+176.338002,-81.600001,-90.0,top,U1,LDK220PU33R,,LDK220PU33R,LDK220PU33R,smt
+155.115,-90.745,0.0,top,U2,,,TVCastSMD4,TSOP392,smt
+166.0,-78.0,180.0,top,U3,,,ST_UFQFPN-20_3x3mm_P0.5mm,STM32C011F4,smt

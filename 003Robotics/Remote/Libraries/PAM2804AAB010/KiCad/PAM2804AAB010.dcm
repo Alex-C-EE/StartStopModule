@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PAM2804AAB010
+D DiodesZetex PAM2804AAB010 LED Driver IC, 2.5  6 V dc 1A 5-Pin SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/products_inactive_data/PAM2312.pdf
+$ENDCMP
+#
+#End Doc Library

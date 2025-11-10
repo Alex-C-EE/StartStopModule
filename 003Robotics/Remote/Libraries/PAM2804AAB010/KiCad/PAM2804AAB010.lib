@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PAM2804AAB010
+#/441427/1495364/2.50/5/2/Integrated Circuit
+DEF PAM2804AAB010 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "PAM2804AAB010" 1050 200 50 H V L CNN
+F2 "SOT95P280X100-5N" 1050 100 50 H I L CNN
+F3 "https://www.diodes.com//assets/Datasheets/products_inactive_data/PAM2312.pdf" 1050 0 50 H I L CNN
+F4 "DiodesZetex PAM2804AAB010 LED Driver IC, 2.5  6 V dc 1A 5-Pin SOT-23" 1050 -100 50 H I L CNN "Description"
+F5 "1" 1050 -200 50 H I L CNN "Height"
+F6 "621-PAM2804AAB010" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/PAM2804AAB010?qs=%252BSlWJf1dfkK6lyf0TsptUw%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PAM2804AAB010" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X EN 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X SW 3 0 -200 200 R 50 50 0 0 P
+X VIN 4 1200 0 200 L 50 50 0 0 P
+X VOUT/FB 5 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

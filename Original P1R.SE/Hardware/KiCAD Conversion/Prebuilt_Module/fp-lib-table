@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Schematic_start_module_sumo_IR_V0_16 v1")(type "KiCad")(uri "$(KIPRJMOD)/Schematic_start_module_sumo_IR_V0_16 v1.pretty")(options "")(descr ""))
+)

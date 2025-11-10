@@ -1,0 +1,15 @@
+﻿Mid X,Mid Y,Rotation,Layer,Designator,mpn,pack,footprint,value,mount_type
+131.510971,-86.920411,180.0,top,C1,,,C_0402,10nF,smt
+134.0,-89.5,90.0,top,C2,,,C_0402,100nF,smt
+127.55,-87.95,180.0,top,C3,,,C_0402,4.7uF,smt
+129.9,-90.3,-90.0,top,C4,,,C_0402,1uF,smt
+129.9,-88.45,90.0,top,C5,,,C_0402,10nF,smt
+128.5,-87.000002,180.0,top,C6,,,C_0402,100nF,smt
+133.55,-91.05,0.0,top,D1,,,D_DFN1006-2L,H3V3N10B,smt
+133.25,-87.45,-90.0,top,D2,,,D_DFN1006-2L,H3V3N10B,smt
+127.8,-90.75,0.0,top,D3,,,D_SOD-523,1SS389,smt
+127.9875,-89.3,180.0,top,F1,,,Fuse_0603_1608Metric,100 mA,smt
+128.63,-93.25,90.0,top,J2,,,PinHeader_1x04_P2.54mm_Vertical,I/O Header,tht
+131.612498,-89.15,-90.0,top,U1,LT3060EDC-3.3#TRMPBF,,SON45P200X200X80-9N-D,LT3060EDC-3.3,smt
+130.005,-85.0,0.0,top,U2,,,TVCastSMD4,TSOP392,smt
+136.2,-87.9,90.0,top,U3,,,ST_UFQFPN-20_3x3mm_P0.5mm,STM32C011F4,smt

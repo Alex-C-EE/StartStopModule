@@ -1,0 +1,16 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type
+C1,1,100nF,C0603,,,,tht
+C2,1,1uf,C0603,,,,tht
+D1,1,,SOD523,,,,tht
+"GND_PAD0, MISO_PAD0, RESET_PAD0, SCK_PAD0, VCC_PAD0",5,,PAD_50X50,,,,tht
+GND_PAD1,1,,PAD_75X75,,,,tht
+IR1,1,TSOP77338TS,TSOP77338,,,,tht
+JP1,1,,1X3,,,,tht
+KILL_SWITCH0,1,,1X01,,,,tht
+LED0,1,,0603_SMALL,,,,tht
+MOSI_PAD0,1,mosi,PAD_75X75,,,,tht
+R1,1,100Ohm,R0603,,,,tht
+R2,1,470,R0603,,,,tht
+R3,1,1K,R0603,,,,tht
+"R4, R5",2,1KOhm,R0603,,,,tht
+UC0,1,ATTINY13A,DFN10,,,,tht

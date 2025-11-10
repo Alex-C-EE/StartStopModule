@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDK220PU33R
+D LDO Voltage Regulators 200 mA low quiescent current and low noise LDO
+K
+F https://www.st.com/resource/en/datasheet/ldk220.pdf
+$ENDCMP
+#
+#End Doc Library

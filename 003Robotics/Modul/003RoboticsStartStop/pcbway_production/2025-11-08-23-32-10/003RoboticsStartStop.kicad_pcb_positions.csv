@@ -1,0 +1,15 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+131.2,-86.920411,180.0,top,C1,,,C_0402,1uF,smt
+134.0,-89.5,90.0,top,C2,,,C_0402,100nF,smt
+130.3,-91.05,0.0,top,C4,,,C_0402,1uF,smt
+128.5,-87.000002,180.0,top,C6,,,C_0402,100nF,smt
+133.55,-91.05,0.0,top,D1,,,D_DFN1006-2L,H3V3N10B,smt
+133.0,-86.9,0.0,top,D2,,,D_DFN1006-2L,H3V3N10B,smt
+127.8,-90.75,0.0,top,D3,,,D_SOD-523,1SS389,smt
+135.0,-84.25,180.0,top,D4,,,D_0603,Red,smt
+127.9875,-89.3,180.0,top,F1,,,Fuse_0603_1608Metric,100 mA,smt
+128.63,-93.25,90.0,top,J2,,,PinHeader_1x04_P2.54mm_Vertical,I/O Header,tht
+137.4,-84.0,0.0,top,R1,,,R_0402,1kΩ,tht
+130.005,-85.0,0.0,top,U2,,,TVCastSMD4,TSOP392,smt
+136.2,-87.9,90.0,top,U3,,,ST_UFQFPN-20_3x3mm_P0.5mm,STM32C011F4,smt
+131.537999,-89.05,-90.0,top,U4,LDK220PU33R,,LDK220PU33R,LDK220PU33R,smt
